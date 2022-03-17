@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+h2{
+    background-color:#f48221 ;
+    font-size: 5vw;
+    text-align: center;
+}
+p{
+    color: white;
+}
+div#texto{
+    font-family: 'Fjalla One', sans-serif;
+    
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+div.borda{
+    border: white 1px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: fit-content;
+
+}

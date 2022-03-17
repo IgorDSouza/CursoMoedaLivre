@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+
+.container1{
+    width: 100%;
+}
+nav.navbar{
+    background-color: #f48221 !important;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+a.navbar-brand{
+    font-size: 40px;
+}
+img#icone{
+    position: relative;
+    bottom: 5px;
+    width: 60px;
+
+}
+section#corpo{
+    background-color: #000000;
+}
+
+div.titulo{
+    font-family: 'Fjalla One', sans-serif;
+  font-size: 4vw;
+    text-align: center;
+    color: white;
+    background-color: #A54657;
+}
+p{
+    font-size: 3vw;
+}
+div.subtitulo{
+    font-size: 3vw;
+    text-align: center;
+    color: white;
+}
+img#foguete{
+    width: 50px;
+}
+h2.topicos{
+    background-color: #A54657;
+    border: solid 1px black;
+    font-size: 4vw;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+h2.topicos2{
+    background-color: #A54657;
+    border: solid 1px black;
+    font-size: 4vw;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+img#iconemoeda{
+
+    width: 100%;
+}
+div#footer{
+    background-color: #f48221 ;
+    padding: 10px;
+    text-align: center;
+}
+img.iconefoot{
+    width: 90px;
+}
+div#janelaexplica{
+    width:100%;
+    height:380px;
+      padding: 0px;
+      margin: 0px;  
+      display: none;  
+}
+iframe#frame-spec{
+    height: 100%;
+    width: 100%;
+  }
+  div.carousel-item{
+      width: 80%;
+  }
+  a#link{
+    text-decoration: none;
+  }
+section#provas div.carousel-item{
+    width: 100% !important;
+}
+span#preco{
+    background-color: green;
+    font-size: 3vw;
+}
